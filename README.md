@@ -47,7 +47,7 @@ Para o cenário de teste exigido pela atividade, o sistema ativou a matriz de re
 
 Os cálculos manuais das 5 fases também foram executados, e todo o processo encontra-se a seguir: 
 
-📄 [Acessar o documento com o cálculo manual das 5 fases (PDF)](calculos_manuais.pdf)
+📄 [Acessar o documento com o cálculo manual das 5 fases (PDF)](Anexos/calculos_manuais.pdf)
 
 Por fim, conclui-se que o resultado calculado e simulado são extremamente próximos, o que válida a atividade. 
 
